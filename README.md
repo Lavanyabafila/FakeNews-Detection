@@ -14,12 +14,11 @@ A simple and effective web application that classifies news text as **Fake** or 
 
 ## Demo
 
-🔗 [Live App on Hugging Face Spaces](https://huggingface.co/spaces/Lavanyabafila2/FakeNews-Detection)
+🔗 [Live App on Hugging Face Spaces](https://huggingface.co/spaces/lavanyabafila2/fake-news-detector)
 
 ## Models Used
 
 - **Logistic Regression**
-- **Gradient Boost Classifier**
 - **Random Forest Classifier**
 
 These models were trained using a labeled dataset of real and fake news. Text features are extracted using a pre-trained `TfidfVectorizer`.
