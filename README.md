@@ -7,7 +7,6 @@ A simple and effective web application that classifies news text as **Fake** or 
 - Input a news article or headline
 - Get predictions from:
   - Logistic Regression
-  - Gradient Boosting
   - Random Forest
 - Clean user interface using Gradio
 - Deployed on Hugging Face for public access
